@@ -1,0 +1,46 @@
+---
+version: '3.7'
+services:
+  aggregator-microservice:
+    hostname: aggregator-microservice
+    image: aggregator-microservice:latest
+    ports:
+      - 8080:8080
+    depends_on:
+    - "temperature-microservice"
+    - "humidity-microservice"
+  
+  temperature-microservice:
+    hostname: temperature-microservice
+    image: temperature-microservice:latest
+    ports:
+      - 8081:8081
+    depends_on:
+    - "eureka-server"
+
+  humidity-microservice:
+    hostname: humidity-microservice
+    image: humidity-microservice:latest
+    ports:
+      - 8082:8082
+    depends_on:
+    - "eureka-server"
+  
+  eureka-server:
+    hostname: eureka-server
+    image: eureka-server-microservice:latest
+    ports: 
+      - 8761:8761
+    depends_on:
+      - config-server
+  
+  config-server:
+    hostname: config-server
+    image: config-server-microservice:latest
+    ports:
+      - 8888:8888
+
+networks:
+  default:
+    external:
+      name: microservices

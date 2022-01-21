@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11a4d5f7-dfa0-44ee-83ea-0018afbeef00" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/config/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/build/.docker/dockerBuildImage-imageId.txt" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/build/.docker/dockerBuildImage-imageId.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/build/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/build/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/aggregator-microservice/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/aggregator-microservice/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/build/.docker/dockerBuildImage-imageId.txt" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/build/.docker/dockerBuildImage-imageId.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-server-microservice/build/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-server-microservice/build/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/build/.docker/dockerBuildImage-imageId.txt" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/build/.docker/dockerBuildImage-imageId.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/eureka-server/build/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/eureka-server/build/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/humidity-microservice/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/humidity-microservice/build/.docker/dockerBuildImage-imageId.txt" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/humidity-microservice/build/.docker/dockerBuildImage-imageId.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/humidity-microservice/build/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/humidity-microservice/build/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/temperature-microservice/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/temperature-microservice/build/.docker/dockerBuildImage-imageId.txt" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/temperature-microservice/build/.docker/dockerBuildImage-imageId.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/temperature-microservice/build/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/temperature-microservice/build/docker/Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23ywIOH8r0z6HaEt9Yjdsr00nTB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11a4d5f7-dfa0-44ee-83ea-0018afbeef00" name="Changes" comment="" />
+      <created>1642719553702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642719553702</updated>
+    </task>
+    <servers />
+  </component>
+</project>
